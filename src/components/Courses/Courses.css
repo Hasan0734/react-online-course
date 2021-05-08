@@ -1,0 +1,23 @@
+.card-img{
+    padding: 13px;
+    margin-bottom: 20px;
+    border: 1px solid #d3d3d340;
+}
+.card-img img{
+    height: 260px;
+    border-radius: 5px;
+}
+.card{
+    
+    border-radius: 8px;
+    box-shadow: 2px 2px 13px #cbc3c3
+}
+.card-container{
+    margin: 15px;
+    height: 600px;
+}
+.card-footer{
+    border: none;
+    background: none;
+    padding: 15px;
+}
